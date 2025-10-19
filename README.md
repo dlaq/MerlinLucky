@@ -1,6 +1,6 @@
 # MerlinLucky v1.6.0
-
-> 运行于华硕 Merlin 固件 KoolCenter 软件中心的 Lucky 插件 - 升级版
+更新 Lucky 核心至 v2.19.5 (wanji 未压缩版)
+> 运行于华硕 Merlin 固件 KoolCenter 软件中心的 Lucky万吉 插件 - 升级版
 
 [![Version](https://img.shields.io/badge/version-1.6.0-blue.svg)](https://github.com/vj23456/MerlinLucky)
 [![Lucky](https://img.shields.io/badge/Lucky-v2.19.5-green.svg)](https://github.com/gdy666/lucky)
@@ -67,13 +67,8 @@ MerlinLucky 是一款运行在华硕 Merlin 固件上的强大网络工具插件
 
 ### 兼容型号
 已测试兼容以下型号：
-- ASUS RT-AX86U
-- ASUS RT-AX88U
 - ASUS RT-AC86U
-- ASUS TUF-AX3000
-- ASUS RT-AX68U
 
-更多型号请参考 [KoolShare RogSoft](https://github.com/koolshare/rogsoft#rogsoft)
 
 ## 📚 文档导航
 
