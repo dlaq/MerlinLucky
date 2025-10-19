@@ -1,0 +1,37 @@
+# 临时文件
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# 备份文件
+*_backup/
+*.bak
+*.old
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 构建输出
+build/
+dist/
+
+# 不上传原版备份（太大）
+lucky_original/
+
+# 保留重要文件的注释
+# lucky.tar.gz - 升级版安装包
+# lucky_2.19.5_Linux_armv7_wanji/ - wanji源文件（保留用于参考）
